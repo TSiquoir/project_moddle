@@ -1,0 +1,12 @@
+body {
+background-color: gray;
+}
+.form{
+    margin: 40px;
+}
+
+.background_form {
+    background-color: gold;
+    margin-top: 50vh; /* poussé de la moitié de hauteur de viewport */
+    transform: translateY(-50%);
+}
